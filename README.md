@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blessedbiello
-- 👀 I’m a backend developer interested in fullstack Web3
-- 🌱 I’m currently learning Solidity & other blockchain technologies. 
-- 💞️ I’m looking forward to get beginer solidity roles
+- 👀 I’m a backend and web3 developer
+- 🌱 I’m currently learning and building on Solidity & other blockchain technologies. 
+- 💞️ I’m looking forward to solidity roles
 - 📫 How to reach me ...
 
 <!---
