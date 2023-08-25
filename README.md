@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blessedbiello
-- 👀 I’m a backend and web3 developer
+- 👀 I’m a Backend and web3 Developer
 - 🌱 I’m currently learning and building on Solidity & other blockchain technologies. 
 - 💞️ I’m looking forward to solidity roles
 - 📫 How to reach me ...
