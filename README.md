@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blessedbiello
 - 👀 I’m a Backend and web3 Developer
 - 🌱 I Specialize in EVM and Solana Blockchains
-- 💞️ Shill me EVM/SVM projects
+- 💞️ Send me EVM/SVM projects
 - 📫 How to reach me ...
 
 <!---
